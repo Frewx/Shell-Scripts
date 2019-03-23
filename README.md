@@ -11,3 +11,7 @@ This script can be used with cron.
 
 Checks the ram usage of your system and mails it. You must configure the mail address in the code. 
 This script can be used with cron.
+
+#extip.sh 
+
+This script is for knowing about your external ip. It makes a get request to a website and returns your external ip on terminal.
