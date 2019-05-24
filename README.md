@@ -19,3 +19,7 @@ This script is for knowing about your external ip. It makes a get request to a w
 # scriptmaker.sh
 
 Script maker is a script automation tool. Just pass the script name as an argument and it will create a bash script template with that name.
+
+# backup.sh
+
+A simple backup script. Script will take a backup of the current /home folder and everything it contains. This script can be used with cron.
