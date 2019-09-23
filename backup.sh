@@ -10,4 +10,4 @@ echo
 echo "Backup finished"
 date
 
-notify-send Backup "/home/ugur has been backed up in /var/backup/"
+notify-send Backup "/home/ has been backed up in /var/backup/"
